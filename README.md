@@ -8,10 +8,10 @@ This plugin is a region plugin for use in Oracle Application Express. The Tradin
 Download the latest PlugIn SQL File from this repository and import it in your APEX application.
 
 The region plugin has 3 attributes to be defined ;
- * Symbol	                - Select stock or asset to be displayed , using the symbols as used in TradingView (eg. NYSE:ORCL)
- * Intevral	              - For which interval, eg daily, weekly, monthly
- * showIntervalTabs	      - Show the interval tabs so the user can change the interval technical analysis 
- * showFooter	            - Optional show the copyright footer of TradingView
+ * Symbol	                - select stock or asset to be displayed , using the symbols as used in TradingView (eg. NYSE:ORCL)
+ * Interval	              - for which interval, eg daily, weekly, monthly
+ * showIntervalTabs	      - show the interval tabs so the user can change the interval technical analysis 
+ * showFooter	            - optional show the copyright footer of TradingView
  * Transparant background	- optional use of transparant background
  * Color theme	          - light or dark theme
  * Custom width	          - optional to specify width of the widget
